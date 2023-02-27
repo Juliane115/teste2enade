@@ -1,0 +1,28 @@
+﻿QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Algoritmos e Estruturas de Dados;;;True
+10;Inteligência artificial;;;False
+11;Matemática discreta e teoria dos grafos;;;True
+12;Pesquisa operacional e otimização;;;True
+13;Automação industrial e sistemas de controle;;;False
+14;Análise de dados e processamento de sinais;;;True
+15;Matemática e Estatística;;;True
+16;Circuitos elétricos e eletrônicos;;;True
+17;Instrumentação eletrônica OC 20: Eletrônica analógica;;;False
+18;Redes de computadores e sistemas distribuídos;Segurança de sistemas de computação;;True
+19;Arquitetura de computadores;Segurança de sistemas de computação;;True
+20;Engenharia de software;;;True
+21;Banco de dados;;;True
+22;Inteligência artificial;;;False
+23;Linguagens formais e autômatos;;;True
+24;Sistemas distribuídos e processamento paralelo;Matemática discreta e teoria dos grafos;;True
+25;Fundamentos de programação e linguagens de programação;;;True
+26;Automação industrial e sistemas de controle;;;True
+27;Engenharia de software;;;True
+28;Sistemas digitais e sistemas embarcados;;;True
+29;Sistemas de comunicação e redes de computadores;Sistemas distribuídos e processamento paralelo;;False
+30;Sistemas distribuídos e processamento paralelo;;;False
+31;Sistemas operacionais;;;True
+32;Matemática e Estatística;Análise de dados e processamento de sinais;;False
+33;Física e Ciência dos Materiais;Circuitos elétricos e eletrônicos;;True
+34;Sistemas operacionais;;;True
+35;Interação humano-computador;;;False
