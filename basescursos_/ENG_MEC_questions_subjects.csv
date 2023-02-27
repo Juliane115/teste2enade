@@ -1,0 +1,28 @@
+QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Expressão gráfica;;;False
+10;Materiais de construção mecânica;;;True
+11;Metrologia;;;True
+12;Mecânica dos fluidos e sistemas fluidomecânicos;;;True
+13;Transferência de calor e massa;;;True
+14;Mecânica geral e mecânica dos sólidos;;;True
+15;Modelagem matemática e simulação computacional;Mecânica dos fluidos e sistemas fluidomecânicos;;True
+16;Mecânica geral e mecânica dos sólidos;;;True
+17;Modelagem matemática e simulação computacional;;;False
+18;Química;;;True
+19;Ciências do ambiente;;;True
+20;Termodinâmica e sistemas térmicos;;;True
+21;Economia;Processos de fabricação;;False
+22;Projeto de máquinas e de sistemas mecânicos;;;False
+23;Matemática e Estatística;;;True
+24;Dinâmica de sistemas mecânicos;;;True
+25;Materiais de construção mecânica;;;False
+26;Mecânica dos fluidos e sistemas fluidomecânicos;;;True
+27;Transferência de calor e mass;;;True
+28;Processos de fabricação;;;False
+29;Programação, instrumentação e controle;;;True
+30;Manutenção;;;True
+31;Programação, instrumentação e controle;;;True
+32;Gestão de produção e de projetos;;;True
+33;Eletricidade;;;True
+34;Gestão de produção e de projetos;;;False
+35;Projeto de máquinas e de sistemas mecânicos;;;True
