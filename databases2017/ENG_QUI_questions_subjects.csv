@@ -1,0 +1,28 @@
+QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Expressão Gráfica;Mecânica dos Sólidos;;True
+10;Economia;Ciências do Ambiente;;True
+11;Administração;Estratégia e Organização;;False
+12;Matemática e Estatística;Física;;True
+13;Ciência e Tecnologia dos Materiais;Fenômenos de Transporte;;True
+14;Expressão Gráfica;Fenômenos de Transporte;;True
+15;Matemática e Estatística;Informática;;True
+16;Economia;Eletricidade Aplicada;;True
+17;Estudo de Viabilidade Técnica, Econômica e Ambiental;Matemática e Estatística;;False
+18;Mecânica dos Sólidos;Matemática e Estatística;Física;True
+19;Análise, síntese, projeto e segurança de processo;;;True
+20;Modelagem, simulação, otimização e controle de processos;;;True
+21;Engenharia de Meio Ambiente;Análise, síntese, projeto e segurança de processo;;False
+22;Termodinâmica;Operações unitárias envolvendo Sistemas Particulados;Engenharia de Meio Ambiente;True
+23;Operações unitárias envolvendo Sistemas Particulados;;;True
+24;Balanços de massa e de energia;Operações unitárias envolvendo transferência de quantidade de movimento, de calor e de massa;;False
+25;Engenharia das reações químicas;;;False
+26;Termodinâmica;;;True
+27;Transferência de quantidade de movimento, de calor e de massa;;;True
+28;Balanços de massa e de energia;Análise, síntese, projeto e segurança de processo;;True
+29;Transferência de quantidade de movimento, de calor e de massa;Análise, síntese, projeto e segurança de processo;;True
+30;Modelagem, simulação, otimização e controle de processos;;;True
+31;Modelagem, simulação, otimização e controle de processos;Análise, síntese, projeto e segurança de processo;;True
+32;Engenharia das reações químicas;;;True
+33;Operações unitárias envolvendo Sistemas Particulados;;;True
+34;Transferência de quantidade de movimento, de calor e de massa;Operações unitárias envolvendo transferência de quantidade de movimento, de calor e de massa;;True
+35;Termodinâmica;Engenharia das reações químicas;;True

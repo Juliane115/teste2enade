@@ -1,0 +1,28 @@
+QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Expressão Gráfica;Mecânica dos Sólidos;;True
+10;Economia;Ciências do Ambiente;;True
+11;Administração;Estratégia e Organização;;False
+12;Matemática e Estatística;Física;;False
+13;Ciência e Tecnologia dos Materiais;Fenômenos de Transporte;;True
+14;Expressão Gráfica;Fenômenos de Transporte;;True
+15;Matemática e Estatística;Informática;;True
+16;Economia;Eletricidade Aplicada;;True
+17;Estudo de Viabilidade Técnica, Econômica e Ambiental;Matemática e Estatística;;False
+18;Mecânica dos Sólidos;Matemática e Estatística;Física;True
+19;Qualidade;;;True
+20;Gestão Ambiental;;;True
+21;Gestão Econômica;;;True
+22;Gerência de Produção;;;True
+23;Engenharia do Produto;;;True
+24;Qualidade;;;False
+25;Estratégia e Organização;;;True
+26;Sistemas de Informação;;;True
+27;Gestão de Tecnologia;Estratégia e Organização;;True
+28;Transporte e Logística;;;True
+29;Modelagem, Análise e Simulação de Sistemas;;;True
+30;Gerência de Produção;;;True
+31;Gestão Econômica;Gerência de Produção;;True
+32;Gerência de Produção;;;True
+33;Estratégia e Organização;Gerência de Produção;;True
+34;Gerência de Produção;;;True
+35;;;;False

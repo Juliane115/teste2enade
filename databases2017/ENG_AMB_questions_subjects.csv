@@ -1,0 +1,28 @@
+QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Expressão Gráfica;Mecânica dos Sólidos;;True
+10;Economia;Ciências do Ambiente;;True
+11;Administração;Estratégia e Organização;;False
+12;Matemática e Estatística;Física;;False
+13;Ciência e Tecnologia dos Materiais;Fenômenos de Transporte;;True
+14;Expressão Gráfica;Fenômenos de Transporte;;True
+15;Matemática e Estatística;Informática;;True
+16;Economia;Eletricidade Aplicada;;True
+17;Estudo de Viabilidade Técnica, Econômica e Ambiental;Matemática e Estatística;;False
+18;Matemática e Estatística;Física;;True
+19;Hidrologia;;;False
+20;Gestão de Recursos Hídricos;Poluição Ambiental;Legislação Ambiental;True
+21;Gestão de Recursos Hídricos;Legislação Ambiental;;True
+22;Gestão de Recursos Hídricos;Ecologia Aplicada;;True
+23;Hidrologia;;;False
+24;Climatologia e Meteorologia;;;True
+25;Gestão Ambiental nos setores público e privado;Legislação Ambiental;Resíduos Sólidos;True
+26;Gestão Ambiental nos setores público e privado;Resíduos Sólidos;Legislação Ambiental;True
+27;Hidrologia;Planejamento Ambiental Urbano e Rural;Manejo de águas pluviais;True
+28;Avaliação de impacto ambiental;Geologia e Geotecnia Ambiental;Cartografia e Geoprocessamento;True
+29;Saúde ambiental;Sistemas de coleta e tratamento de efluentes;;True
+30;Ecologia Aplicada;Recuperação e remediação de áreas degradadas;;True
+31;Ecologia Aplicada;Poluição ambiental;Recuperação e Remediação de Áreas Degradadas;True
+32;Poluição ambiental;Recursos Energéticos;Sistemas de coleta e tratamento de efluentes;False
+33;Recursos Energéticos;Cartografia e Geoprocessamento;Avaliação de Impactos Ambientais;True
+34;Recursos Energéticos;Planejamento Ambiental Urbano e Rural;Gestão Ambiental nos setores público e privado;True
+35;Sistemas de coleta e tratamento de efluentes;;;False
