@@ -1,0 +1,28 @@
+QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Genética e reprodução humana;Deontologia, bioética e biossegurança;;True
+10;Bioquímica;Farmacologia;;True
+11;Parasitologia;Imunologia;Análises clínicas;True
+12;Imagenologia;;;True
+13;Bases moleculares e celulares;Biotecnologia;;True
+14;Auditoria, consultoria, gestão e controle de qualidade laboratorial;;;False
+15;Análise ambiental;;;True
+16;Bromatologia e microbiologia de alimentos;;;False
+17;Bioquímica;Análises clínicas;;True
+18;Sistemas fisiológicos e processos patológicos;Toxicologia;;False
+19;Genética e reprodução humana;Políticas públicas, saúde pública e epidemiologia;Hematologia, hemoterapia e banco de sangue;True
+20;Estrutura e função dos órgãos e tecidos;Citopatologia e histoquímica;;False
+21;Deontologia, bioética e biossegurança;Análises clínicas;;True
+22;Imunologia;Deontologia, bioética e biossegurança;;True
+23;Microbiologia;;;True
+24;Toxicologia;Procedimentos biomédicos (biomedicina estética, acupuntura, perfusão extracorpórea e ciências forenses);;False
+25;Bases moleculares e celulares;;;True
+26;Microbiologia;Análises clínicas;;True
+27;Parasitologia;Políticas públicas, saúde pública e epidemiologia;;False
+28;Biofísica;Procedimentos biomédicos (biomedicina estética, acupuntura, perfusão extracorpórea e ciências forenses);;True
+29;Sistemas fisiológicos e processos patológicos;Bioquímica;;True
+30;Ciências exatas aplicadas à Biomedicina;Análises clínicas;;True
+31;Análises clínicas;;;False
+32;Imunologia;Análises clínicas;;True
+33;Genética e reprodução humana;;;True
+34;Farmacologia;;;True
+35;Estrutura e função dos órgãos e tecidos;;;True

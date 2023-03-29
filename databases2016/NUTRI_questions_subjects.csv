@@ -1,0 +1,28 @@
+QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Técnica dietética;Necessidades e recomendações nutricionais nos diferentes ciclos de vida;Bioquímica nutricional;True
+10;Técnica dietética;Cadeia produtiva de alimentos e sustentabilidade;;True
+11;Técnica dietética;Planejamento e prescrição de planos alimentares;Indicadores de qualidade na produção de refeições;True
+12;Biodisponibilidade de nutrientes e propriedades de compostos bioativos;Bioquímica nutricional;Dietoterapia nas diferentes enfermidades;True
+13;Métodos de avaliação nutricional;Determinantes psicológicos, sociológicos e antropológicos do comportamento alimentar;Dietoterapia nas diferentes enfermidades;True
+14;Necessidades e recomendações nutricionais nos diferentes ciclos de vida;Epidemiologia nutricional;Política Nacional de Segurança Alimentar e Nutricional;True
+15;Cadeia produtiva de alimentos e sustentabilidade;Política Nacional de Segurança Alimentar e Nutricional;;True
+16;Planejamento e prescrição de planos alimentares;Guia alimentar da população brasileira;Política Nacional de Alimentação e Nutrição;True
+17;Gestão de materiais e pessoas;;;True
+18;Determinantes psicológicos, sociológicos e antropológicos do comportamento alimentar;Dietoterapia nas diferentes enfermidades;;True
+19;Necessidades e recomendações nutricionais nos diferentes ciclos de vida;Métodos de avaliação nutricional;Dietoterapia nas diferentes enfermidades;True
+20;Epidemiologia nutricional;Sistema Único de Saúde;;True
+21;Planejamento e prescrição de planos alimentares;Sistema Único de Saúde;Dietoterapia nas diferentes enfermidades;False
+22;Política Nacional de Alimentação e Nutrição;Sistema Único de Saúde;;False
+23;Epidemiologia nutricional;Guia alimentar da população brasileira;Política Nacional de Alimentação e Nutrição;True
+24;Necessidades e recomendações nutricionais nos diferentes ciclos de vida;Fisiopatologia da nutrição;Bioquímica nutricional;True
+25;Técnica dietética;Planejamento e prescrição de planos alimentares;Dietoterapia nas diferentes enfermidades;True
+26;Saúde e segurança no trabalho;Política Nacional de Alimentação e Nutrição;;False
+27;Planejamento físico e funcional de serviços de alimentação;;;True
+28;Fisiopatologia da nutrição;Bioquímica nutricional;;True
+29;Necessidades e recomendações nutricionais nos diferentes ciclos de vida;Determinantes psicológicos, sociológicos e antropológicos do comportamento alimentar;;False
+30;Fisiopatologia da nutrição;Bioquímica nutricional;Dietoterapia nas diferentes enfermidades;True
+31;Necessidades e recomendações nutricionais nos diferentes ciclos de vida;Dietoterapia nas diferentes enfermidades;;True
+32;Política Nacional de Alimentação e Nutrição;Política Nacional de Segurança Alimentar e Nutricional;;True
+33;Técnica dietética;Planejamento e prescrição de planos alimentares;Dietoterapia nas diferentes enfermidades;True
+34;Biodisponibilidade de nutrientes e propriedades de compostos bioativos;Tecnologia e análise sensorial de alimentos;;True
+35;Indicadores de qualidade na produção de refeições;Gestão de materiais e pessoas;;True
