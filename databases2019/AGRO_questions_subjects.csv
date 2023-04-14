@@ -1,0 +1,28 @@
+QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Química;Solos;;False
+10;Biologia;Engenharia rural;Física;True
+11;Ecologia e manejo ambiental;Silvicultura;;True
+12;Tecnologia e processamento de produtos agropecuários;Zootecnia;;False
+13;Metodologia científica e experimentação agrícola;Solos;;True
+14;Ecologia e manejo ambiental;Engenharia rural;Solos;True
+15;Agroecologia e agricultura orgânica;Legislação aplicada;;True
+16;Legislação aplicada;Sistemas agroindustriais;;True
+17;Matemática;Metodologia científica e experimentação agrícola;;True
+18;Engenharia rural;Fitossanidade;;True
+19;Fitotecnia;Fitossanidade;;True
+20;Engenharia rural;;;True
+21;Economia, administração e extensão rural;Tecnologia e processamento de produtos agropecuários;;True
+22;Fitotecnia;Solos;Zootecnia;True
+23;Fitotecnia;Ética e legislação profissional;;False
+24;Legislação aplicada;;;False
+25;Engenharia rural;Fitossanidade;Matemática;True
+26;Sistemas agroindustriais;;;True
+27;Sistemas agroindustriais;Economia;Administração e Extansão rural;True
+28;Sistemas agroindustriais;Economia;Administração e Extansão rural;True
+29;Economia;Administração e Extansão rural;;True
+30;Biologia;Genética e melhoramento;;True
+31;Economia;Administração e Extansão rural;;True
+32;Ecologia e manejo ambiental;Fitossanidade;;True
+33;Economia;Administração e Extansão rural;Sistemas agroindustriais;False
+34;Agroecologia e agricultura orgânica;Economia, administração e extensão rural;;True
+35;Zootecnia;;;True
