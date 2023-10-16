@@ -1,0 +1,28 @@
+QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Expressão Gráfica;Mecânica dos Sólidos;;False
+10;Economia;Ciências do Ambiente;;True
+11;Administração;Estratégia e Organização;;False
+12;Matemática e Estatística;Física;;True
+13;Ciência e Tecnologia dos Materiais;Fenômenos de Transporte;;True
+14;Expressão Gráfica;Fenômenos de Transporte;;True
+15;Matemática e Estatística;Informática;;True
+16;Economia;Eletricidade Aplicada;;True
+17;Estudo de Viabilidade Técnica, Econômica e Ambiental;Matemática e Estatística;;False
+18;Mecânica dos Sólidos;Matemática e Estatística;Física;True
+19;Lógica e matemática discreta;;;True
+20;Linguagens formais, autômatos e computabilidade;Compiladores;;True
+21;Sistemas digitais e sistemas embarcados;;;True
+22;Fundamentos de programação e linguagens de programação;Arquitetura de computadores;;True
+23;Análise e processamento de sinais;;;False
+24;Inteligência artificial;;;False
+25;Redes de computadores e sistemas distribuídos;;;False
+26;Algoritmos e estruturas de dados;Automação industrial e sistemas de controle;;True
+27;Sistemas digitais e sistemas embarcados;;;True
+28;Pesquisa operacional e otimização;;;True
+29;Redes de computadores e sistemas distribuídos;;;True
+30;Ética, empreendedorismo, computador e sociedade;;;True
+31;Engenharia de software;;;False
+32;Computação gráfica;;;True
+33;Banco de dados;;;False
+34;Interação humano-computador;;;False
+35;Teoria dos grafos;Redes de computadores e sistemas distribuídos;;True

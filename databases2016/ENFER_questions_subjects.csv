@@ -1,0 +1,28 @@
+QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Saúde Mental;;;True
+10;Diagnóstico situacional;Territorialização;;True
+11;História da enfermagem;;;True
+12;Legislação;Ética e bioética;Humanização;False
+13;Semiologia e semiotécnica;;;True
+14;Metodologia científica;;;False
+15;Semiologia e semiotécnica;Biossegurança;Segurança do paciente;True
+16;Semiologia e semiotécnica;Segurança do paciente;;True
+17;Sistematização da Assistência de Enfermagem;Educação e Saúde;;True
+18;Gerência de Enfermagem;Paciente Crítico;;True
+19;Gerência de Enfermagem;Paciente Crítico;;True
+20;Ética e bioética;Tecnologia da Informação e Comunicação;;True
+21;Legislação;Gerência de Enfermagem;Humanização;True
+22;Semiologia e semiotécnica;Estratégia da Saúde da Família;Educação e Saúde;False
+23;Estratégia da Saúde da Família;Educação e Saúde;;True
+24;Estratégia da Saúde da Família;Humanização;;True
+25;Estratégia da Saúde da Família;;;True
+26;Biossegurança;;;True
+27;Biossegurança;;;True
+28;Estratégia da Saúde da Família;;;False
+29;Metodologia científica;;;True
+30;Estratégia da Saúde da Família;;;True
+31;Humanização;;;True
+32;Humanização;Legislação;;False
+33;Diagnóstico situacional;Territorialização;Humanização;True
+34;Feridas;Sistema digestório;;True
+35;Segurança do paciente;Gerência de Enfermagem;;True

@@ -1,0 +1,28 @@
+QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Planejamento Urbano e Regional;Preservação do patrimônio;;True
+10;Teoria e História da Arquitetura, do Urbanismo e do Paisagismo;Projeto de Arquitetura, de Urbanismo e de Paisagismo;Sistemas Estruturais;True
+11;Sistemas Estruturais;Projeto de Arquitetura, de Urbanismo e de Paisagismo;Gestão e Coordenação de Projetos;False
+12;Teoria e História da Arquitetura, do Urbanismo e do Paisagismo;Projeto de Arquitetura, de Urbanismo e de Paisagismo;;True
+13;Informática aplicada à Arquitetura e Urbanismo;Projeto de Arquitetura, de Urbanismo e de Paisagismo;Tecnologia da Construção;True
+14;Informática aplicada à Arquitetura e Urbanismo;Planejamento Urbano e Regional;;True
+15;Conforto Ambiental;Mobilidade e Acessibilidade;;True
+16;Conforto Ambiental;Mobilidade e Acessibilidade;;True
+17;Tecnologia da Construção;Gestão e Coordenação de Obras;Sustentabilidade;True
+18;Estudos Sociais e Econômicos;Planejamento Urbano e Regional;Políticas públicas e habitacionais;True
+19;Gestão e Coordenação de Obras;Projeto de Arquitetura, de Urbanismo e de Paisagismo;;True
+20;Tecnologia da Construção;Sustentabilidade;Projeto de Arquitetura, de Urbanismo e de Paisagismo;False
+21;Conforto Ambiental;Tecnologia da Construção;;True
+22;Teoria e História da Arquitetura, do Urbanismo e do Paisagismo;Técnicas Retrospectivas;Preservação do patrimônio;False
+23;Planejamento Urbano e Regional;Preservação do patrimônio;;True
+24;Estudos Ambientais;Projeto de Arquitetura, de Urbanismo e de Paisagismo;Sustentabilidade;True
+25;Teoria e História da Arquitetura, do Urbanismo e do Paisagismo;Políticas públicas e habitacionais;;True
+26;Planejamento Urbano e Regional;Infraestrutura urbana;Mobilidade e Acessibilidade;True
+27;Gestão e Coordenação de Projetos;Tecnologia da Construção;;True
+28;Teoria e História da Arquitetura, do Urbanismo e do Paisagismo;Projeto de Arquitetura, de Urbanismo e de Paisagismo;;True
+29;Estética e História das Artes;Preservação do patrimônio;;True
+30;Desenho e Meios de Representação e Expressão;Projeto de Arquitetura, de Urbanismo e de Paisagismo;;True
+31;Estudos Sociais e Econômicos;Estudos Ambientais;Políticas públicas e habitacionais;True
+32;Estudos Ambientais;Planejamento Urbano e Regional;;False
+33;Teoria e História da Arquitetura, do Urbanismo e do Paisagismo;Estudos Ambientais;Projeto de Arquitetura, de Urbanismo e de Paisagismo;True
+34;Teoria e História da Arquitetura, do Urbanismo e do Paisagismo;Técnicas Retrospectivas;Preservação do patrimônio;True
+35;Estudos Sociais e Econômicos;Planejamento Urbano e Regional;;True

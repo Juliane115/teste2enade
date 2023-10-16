@@ -1,0 +1,28 @@
+QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Ciências básicas;;;True
+10;Ciências básicas;;;True
+11;Ética e bioética;;;True
+12;Clínica médica;;;True
+13;Ginecologia e obstetrícia;;;False
+14;Ginecologia e obstetrícia;Saúde coletiva e Medicina de família e comunidade;;True
+15;Clínica médica;;;True
+16;Ginecologia e obstetrícia;Urgência e emergência;;True
+17;Ginecologia e obstetrícia;;;False
+18;Ginecologia e obstetrícia;;;True
+19;Pediatria;;;True
+20;Pediatria;Urgência e emergência;;True
+21;Pediatria;;;False
+22;Pediatria;;;True
+23;Clínica médica;;;True
+24;Clínica médica;;;True
+25;Clínica médica;;;True
+26;Clínica médica;Saúde coletiva e Medicina de família e comunidade;;False
+27;Clínica médica;;;True
+28;Cirurgia;Saúde coletiva e Medicina de família e comunidade;;True
+29;Clínica médica;Urgência e emergência;;True
+30;Cirurgia;;;True
+31;Cirurgia;;;True
+32;Cirurgia;;;True
+33;Saúde coletiva e Medicina de família e comunidade;;;True
+34;Saúde mental;;;True
+35;Saúde coletiva e Medicina de família e comunidade;;;False

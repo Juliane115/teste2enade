@@ -1,0 +1,28 @@
+QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Ecologia e ecossistemas florestais;;;True
+10;Ecologia e ecossistemas florestais;Recuperação de áreas degradadas;;True
+11;Gestão de recursos naturais renováveis;;;True
+12;Sistemas e técnicas silviculturais;;;True
+13;Morfologia, Sistemática e Dendrologia;;;True
+14;Solos e nutrição florestal;;;True
+15;Sementes e viveiros florestais;;;True
+16;Sementes e viveiros florestais;Melhoramento e biotecnologia florestal;;True
+17;Sistemas e técnicas silviculturais;Solos e nutrição florestal;;True
+18;Sistemas e técnicas silviculturais;;;True
+19;Experimentação florestal;;;True
+20;Proteção florestal;;;True
+21;Melhoramento e biotecnologia florestal;;;True
+22;Proteção florestal;;;True
+23;Dendrometria e inventário florestal;;;True
+24;Geoprocessamento aplicado à Engenharia Florestal;;;True
+25;Dendrometria e inventário florestal;;;True
+26;Manejo florestal;;;True
+27;Manejo florestal;;;False
+28;Estradas, colheita e transporte florestal;;;False
+29;Economia e administração florestal;;;True
+30;Política, projetos e legislação florestal;;;True
+31;Geoprocessamento aplicado à Engenharia Florestal;Manejo de bacias hidrográficas;;True
+32;Secagem e processamento mecânico da madeira;;;True
+33;Anatomia e propriedades físicas, químicas e mecânicas da madeira;;;True
+34;Secagem e processamento mecânico da madeira;;;True
+35;Produtos florestais madeireiros e não madeireiros;Economia e administração florestal;;False
